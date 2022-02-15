@@ -3,9 +3,9 @@
 ##### Instruções:
 
 - Os códigos estão em um arquivo JS e podem ser executados no próprio console do navegador (CTRL + SHIFT + i). Basta copiar e colar o código para ver os resultados no console.
-- Caso possua o Node.JS instalado, também pode-se executar o arquivo via Linha de Comando através do seguinte:
->> node desafio.js
+- Caso possua o Node.JS instalado, também pode-se executar o arquivo via Linha de Comando digitando: "node desafio.js" (sem aspas).
 
 
-Tecnologias utilizadas: Javascript Puro.
+
+*Tecnologias utilizadas: Javascript (ES6).*
 
